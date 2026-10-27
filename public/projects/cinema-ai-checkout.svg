@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect width="1600" height="1000" rx="18" fill="#17131F"/>
+<path d="M0 18 a18 18 0 0 1 18 -18 h1564 a18 18 0 0 1 18 18 v38 h-1600 z" fill="#E4E6EB"/>
+<circle cx="30" cy="28" r="7" fill="#EC6A5E"/>
+<circle cx="52" cy="28" r="7" fill="#F4BF4F"/>
+<circle cx="74" cy="28" r="7" fill="#61C554"/>
+<rect x="420" y="14" width="760" height="28" rx="14" fill="#fff"/><text x="800" y="33" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#555">cinema-seats-picker-ai.vercel.app/checkout</text>
+<text x="48" y="108" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F5EFE6">Cinema<tspan fill="#F2B544">AI</tspan></text>
+<circle cx="560" cy="100" r="15" fill="#F2B544" stroke="#F2B544" stroke-width="2"/>
+<text x="560" y="105" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#17131F">1</text>
+<text x="584" y="105" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#8D84A0">Seats</text>
+<line x1="650" y1="100" x2="740" y2="100" stroke="#3A3148" stroke-width="2"/>
+<circle cx="760" cy="100" r="15" fill="#F2B544" stroke="#F2B544" stroke-width="2"/>
+<text x="760" y="105" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#17131F">2</text>
+<text x="784" y="105" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">Extras</text>
+<line x1="850" y1="100" x2="940" y2="100" stroke="#3A3148" stroke-width="2"/>
+<circle cx="960" cy="100" r="15" fill="none" stroke="#5C5470" stroke-width="2"/>
+<text x="960" y="105" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#8D84A0">3</text>
+<text x="984" y="105" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#8D84A0">Payment</text>
+<text x="48" y="190" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">Add snacks and merch</text>
+<text x="48" y="222" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#A79FB8">Pick up at the concession stand, no queue.</text>
+<rect x="48" y="260" width="325" height="310" rx="18" fill="#221C2E" stroke="#F2B544" stroke-width="2"/>
+<rect x="68" y="280" width="285" height="140" rx="12" fill="#F2B544" opacity=".18"/>
+<path d="M172 330 h76 l-10 62 h-56z" fill="#F2B544"/><circle cx="190" cy="324" r="13" fill="#F5EFE6"/><circle cx="212" cy="318" r="14" fill="#F5EFE6"/><circle cx="232" cy="326" r="12" fill="#F5EFE6"/>
+<text x="68" y="456" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#F5EFE6">Large popcorn</text>
+<text x="68" y="480" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Salted or caramel</text>
+<text x="68" y="538" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F5EFE6">$7.50</text>
+<rect x="223" y="512" width="130" height="38" rx="19" fill="#2F2540"/><text x="246" y="537" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#F5EFE6">−</text><text x="288" y="537" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F5EFE6">2</text><text x="330" y="537" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#F5EFE6">+</text>
+<rect x="393" y="260" width="325" height="310" rx="18" fill="#221C2E" stroke="#3A3148" stroke-width="1"/>
+<rect x="413" y="280" width="285" height="140" rx="12" fill="#E0904A" opacity=".18"/>
+<path d="M511 380 l44 -70 l44 70z" fill="#E0904A"/><path d="M535 380 q20 -26 40 0z" fill="#F2D06B"/>
+<text x="413" y="456" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#F5EFE6">Nachos and cheese</text>
+<text x="413" y="480" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Jalapeños on the side</text>
+<text x="413" y="538" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F5EFE6">$6.00</text>
+<rect x="608" y="512" width="90" height="38" rx="19" fill="none" stroke="#5C5470" stroke-width="2"/><text x="653" y="537" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F5EFE6">Add</text>
+<rect x="738" y="260" width="325" height="310" rx="18" fill="#221C2E" stroke="#F2B544" stroke-width="2"/>
+<rect x="758" y="280" width="285" height="140" rx="12" fill="#7FB8E0" opacity=".18"/>
+<path d="M874 314 h52 l-8 80 h-36z" fill="#7FB8E0"/><rect x="904" y="288" width="5" height="34" fill="#F5EFE6"/>
+<text x="758" y="456" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#F5EFE6">Fountain soda</text>
+<text x="758" y="480" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Refill once</text>
+<text x="758" y="538" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F5EFE6">$4.00</text>
+<rect x="913" y="512" width="130" height="38" rx="19" fill="#2F2540"/><text x="936" y="537" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#F5EFE6">−</text><text x="978" y="537" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F5EFE6">2</text><text x="1020" y="537" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#F5EFE6">+</text>
+<rect x="48" y="590" width="325" height="310" rx="18" fill="#221C2E" stroke="#3A3148" stroke-width="1"/>
+<rect x="68" y="610" width="285" height="140" rx="12" fill="#B58BE8" opacity=".18"/>
+<rect x="174" y="654" width="72" height="70" rx="6" fill="#B58BE8"/><path d="M192 654 q18 -36 36 0" stroke="#B58BE8" stroke-width="6" fill="none"/>
+<text x="68" y="786" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#F5EFE6">Lighthouse tote</text>
+<text x="68" y="810" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Limited print</text>
+<text x="68" y="868" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F5EFE6">$18.00</text>
+<rect x="263" y="842" width="90" height="38" rx="19" fill="none" stroke="#5C5470" stroke-width="2"/><text x="308" y="867" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F5EFE6">Add</text>
+<rect x="393" y="590" width="325" height="310" rx="18" fill="#221C2E" stroke="#F2B544" stroke-width="2"/>
+<rect x="413" y="610" width="285" height="140" rx="12" fill="#E07FA0" opacity=".18"/>
+<rect x="515" y="652" width="80" height="60" rx="8" fill="#E07FA0"/><circle cx="541" cy="682" r="9" fill="#F5EFE6"/><circle cx="569" cy="682" r="9" fill="#F2B544"/>
+<text x="413" y="786" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#F5EFE6">Candy box</text>
+<text x="413" y="810" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Mixed sweets</text>
+<text x="413" y="868" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F5EFE6">$3.50</text>
+<rect x="568" y="842" width="130" height="38" rx="19" fill="#2F2540"/><text x="591" y="867" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#F5EFE6">−</text><text x="633" y="867" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F5EFE6">1</text><text x="675" y="867" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#F5EFE6">+</text>
+<rect x="738" y="590" width="325" height="310" rx="18" fill="#221C2E" stroke="#3A3148" stroke-width="1"/>
+<rect x="758" y="610" width="285" height="140" rx="12" fill="#7FD1A5" opacity=".18"/>
+<rect x="870" y="636" width="60" height="86" rx="4" fill="#7FD1A5"/><circle cx="900" cy="674" r="14" fill="#F5EFE6" opacity=".7"/>
+<text x="758" y="786" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#F5EFE6">Poster, A2</text>
+<text x="758" y="810" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Signed edition</text>
+<text x="758" y="868" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F5EFE6">$22.00</text>
+<rect x="953" y="842" width="90" height="38" rx="19" fill="none" stroke="#5C5470" stroke-width="2"/><text x="998" y="867" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F5EFE6">Add</text>
+<rect x="1100" y="150" width="460" height="740" rx="18" fill="#221C2E" stroke="#3A3148"/>
+<text x="1128" y="194" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F5EFE6">Order summary</text>
+<rect x="1128" y="216" width="76" height="104" rx="8" fill="#2B5876"/><rect x="1128" y="216" width="76" height="104" rx="8" fill="#4E4376" opacity=".5"/>
+<text x="1222" y="246" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#F5EFE6">The Last Lighthouse</text><text x="1222" y="272" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Hall 2, Today 7:30 PM</text><text x="1222" y="296" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Seats D7, D8</text>
+<text x="1128" y="372" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Tickets x2</text><text x="1532" y="372" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">$28.00</text>
+<text x="1128" y="408" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Large popcorn x2</text><text x="1532" y="408" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">$15.00</text>
+<text x="1128" y="444" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Fountain soda x2</text><text x="1532" y="444" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">$8.00</text>
+<text x="1128" y="480" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Candy box x1</text><text x="1532" y="480" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">$3.50</text>
+<text x="1128" y="516" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Booking fee</text><text x="1532" y="516" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">$1.50</text>
+<rect x="1128" y="568" width="404" height="50" rx="12" fill="#1E1928" stroke="#7FD1A5"/><text x="1148" y="599" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">111</text><text x="1512" y="599" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#7FD1A5">Applied, 10% off tickets</text>
+<text x="1128" y="656" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Promo discount</text><text x="1532" y="656" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#7FD1A5">−$2.80</text>
+<line x1="1128" y1="680" x2="1532" y2="680" stroke="#3A3148"/>
+<text x="1128" y="720" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F5EFE6">Total</text><text x="1532" y="720" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#F5EFE6">$53.20</text>
+<rect x="1128" y="760" width="404" height="56" rx="14" fill="#F2B544"/><text x="1330" y="795" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#17131F">Continue to payment</text>
+<text x="1330" y="850" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Seats are held for 10 minutes.</text>
+</svg>

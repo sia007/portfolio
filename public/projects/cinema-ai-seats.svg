@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><radialGradient id="glow" cx="50%" cy="0%" r="70%"><stop offset="0" stop-color="#F2B544" stop-opacity=".35"/><stop offset="1" stop-color="#F2B544" stop-opacity="0"/></radialGradient><linearGradient id="poster1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2B5876"/><stop offset="1" stop-color="#4E4376"/></linearGradient><linearGradient id="poster2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8E2C3C"/><stop offset="1" stop-color="#E0904A"/></linearGradient><linearGradient id="poster3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F6E5B"/><stop offset="1" stop-color="#9CC59A"/></linearGradient></defs>
+<rect width="1600" height="1000" rx="18" fill="#17131F"/>
+<path d="M0 18 a18 18 0 0 1 18 -18 h1564 a18 18 0 0 1 18 18 v38 h-1600 z" fill="#E4E6EB"/>
+<circle cx="30" cy="28" r="7" fill="#EC6A5E"/>
+<circle cx="52" cy="28" r="7" fill="#F4BF4F"/>
+<circle cx="74" cy="28" r="7" fill="#61C554"/>
+<rect x="420" y="14" width="760" height="28" rx="14" fill="#fff"/><text x="800" y="33" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#555">cinema-seats-picker-ai.vercel.app</text>
+<text x="48" y="108" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F5EFE6">Cinema<tspan fill="#F2B544">AI</tspan></text>
+<text x="220" y="106" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">Movies</text>
+<text x="350" y="106" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#8D84A0">My bookings</text>
+<text x="480" y="106" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#8D84A0">Snacks</text>
+<text x="48" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#F5EFE6">The Last Lighthouse</text>
+<text x="48" y="198" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#A79FB8" xml:space="preserve">Hall 2     Today, 7:30 PM     Sci-fi drama     2h 08m</text>
+<clipPath id="below"><rect x="40" y="226" width="1020" height="260"/></clipPath><ellipse cx="550" cy="232" rx="470" ry="120" fill="url(#glow)" clip-path="url(#below)"/>
+<path d="M150 250 Q550 214 950 250" stroke="#F2B544" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="550" y="280" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="4" fill="#8D84A0">SCREEN</text>
+<text x="142" y="346" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">A</text>
+<rect x="173" y="321" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="226" y="320" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="281" y="321" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="334" y="320" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="389" y="321" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="443" y="321" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="496" y="320" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="591" y="321" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="644" y="320" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="699" y="321" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="752" y="320" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="806" y="320" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="861" y="321" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="915" y="321" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<text x="142" y="400" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">B</text>
+<rect x="172" y="374" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="226" y="374" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="281" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="335" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="389" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="443" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="497" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="590" y="374" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="645" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="699" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="752" y="374" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="806" y="374" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="861" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="915" y="375" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<text x="142" y="454" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">C</text>
+<rect x="172" y="428" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="227" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="281" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="335" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="389" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="442" y="428" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="496" y="428" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="590" y="428" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="645" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="699" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="753" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="807" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="861" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="915" y="429" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<text x="142" y="508" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">D</text>
+<rect x="173" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="227" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="280" y="482" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="335" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="389" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="443" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="496" y="482" width="40" height="40" rx="9" fill="#F2B544"/><path d="M508 503 l6 6 l11 -13" stroke="#17131F" stroke-width="3" fill="none" stroke-linecap="round"/>
+<rect x="590" y="482" width="40" height="40" rx="9" fill="#F2B544"/><path d="M602 503 l6 6 l11 -13" stroke="#17131F" stroke-width="3" fill="none" stroke-linecap="round"/>
+<rect x="645" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="698" y="482" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="753" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="807" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="860" y="482" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="915" y="483" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<text x="142" y="562" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">E</text>
+<rect x="172" y="536" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="227" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="281" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="335" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="389" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="443" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="497" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="591" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="645" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="699" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="753" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="807" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="861" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<rect x="915" y="537" width="38" height="38" rx="9" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/>
+<text x="142" y="616" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">F</text>
+<rect x="172" y="590" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="227" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="281" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="335" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="389" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="443" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="497" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="591" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="644" y="590" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="699" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="752" y="590" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="806" y="590" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="860" y="590" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="915" y="591" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<text x="142" y="670" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">G</text>
+<rect x="172" y="644" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="226" y="644" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="281" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="335" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="388" y="644" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="443" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="497" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="591" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="645" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="699" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="752" y="644" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="807" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="861" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="915" y="645" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<text x="142" y="724" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">H</text>
+<rect x="173" y="699" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="226" y="698" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="280" y="698" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="334" y="698" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="388" y="698" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="443" y="699" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="497" y="699" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="590" y="698" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="644" y="698" width="40" height="40" rx="9" fill="#2E2839"/>
+<rect x="699" y="699" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="753" y="699" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="807" y="699" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="861" y="699" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<rect x="915" y="699" width="38" height="38" rx="9" fill="#1E1928" stroke="#5C5470" stroke-width="2"/>
+<g><rect x="505.0" y="404" width="210" height="62" rx="10" fill="#F5EFE6"/><path d="M602.0 466 l8 9 l8 -9z" fill="#F5EFE6"/><text x="520.0" y="430" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#17131F">Row D, Seat 8</text><text x="520.0" y="452" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#5A5266">Premium recliner, $14.00</text></g>
+<rect x="200" y="770" width="22" height="22" rx="6" fill="#1E1928" stroke="#5C5470" stroke-width="2"/><text x="234" y="787" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Available</text>
+<rect x="390" y="770" width="22" height="22" rx="6" fill="#2A2236" stroke="#B58BE8" stroke-width="2"/><text x="424" y="787" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Premium</text>
+<rect x="580" y="770" width="22" height="22" rx="6" fill="#2E2839"/><text x="614" y="787" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Booked</text>
+<rect x="770" y="770" width="22" height="22" rx="6" fill="#F2B544"/><text x="804" y="787" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Your seats</text>
+<rect x="40" y="830" width="1020" height="120" rx="16" fill="#1E1928"/>
+<text x="72" y="876" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Showtimes today</text>
+<rect x="72" y="895" width="130" height="38" rx="19" fill="none" stroke="#5C5470" stroke-width="2"/><text x="137" y="920" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F5EFE6">4:15 PM</text>
+<rect x="222" y="895" width="130" height="38" rx="19" fill="#F2B544" stroke="#F2B544" stroke-width="2"/><text x="287" y="920" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#17131F">7:30 PM</text>
+<rect x="372" y="895" width="130" height="38" rx="19" fill="none" stroke="#5C5470" stroke-width="2"/><text x="437" y="920" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F5EFE6">9:45 PM</text>
+<rect x="522" y="895" width="130" height="38" rx="19" fill="none" stroke="#5C5470" stroke-width="2"/><text x="587" y="920" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F5EFE6">11:20 PM</text>
+<rect x="1100" y="130" width="460" height="460" rx="18" fill="#221C2E" stroke="#3A3148"/>
+<circle cx="1138" cy="172" r="14" fill="#B58BE8"/><path d="M1138 163 l3 6 6 3 -6 3 -3 6 -3 -6 -6 -3 6 -3z" fill="#17131F"/>
+<text x="1164" y="178" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F5EFE6">Picked for you</text>
+<text x="1128" y="214" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#A79FB8">Based on the sci-fi and slow-burn dramas</text>
+<text x="1128" y="234" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#A79FB8">you booked recently.</text>
+<rect x="1128" y="262" width="64" height="88" rx="8" fill="url(#poster1)"/>
+<text x="1210" y="292" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#F5EFE6">The Last Lighthouse</text>
+<text x="1210" y="316" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Sci-fi, drama</text>
+<rect x="1210" y="326" width="96" height="22" rx="11" fill="#2F2540"/><text x="1258" y="342" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#C9A8F2">96% match</text>
+<rect x="1128" y="366" width="64" height="88" rx="8" fill="url(#poster2)"/>
+<text x="1210" y="396" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#F5EFE6">Ember Season</text>
+<text x="1210" y="420" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Drama, romance</text>
+<rect x="1210" y="430" width="96" height="22" rx="11" fill="#2F2540"/><text x="1258" y="446" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#C9A8F2">88% match</text>
+<rect x="1128" y="470" width="64" height="88" rx="8" fill="url(#poster3)"/>
+<text x="1210" y="500" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#F5EFE6">Quiet Orbit</text>
+<text x="1210" y="524" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#8D84A0">Sci-fi, thriller</text>
+<rect x="1210" y="534" width="96" height="22" rx="11" fill="#2F2540"/><text x="1258" y="550" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#C9A8F2">81% match</text>
+<rect x="1100" y="610" width="460" height="340" rx="18" fill="#221C2E" stroke="#3A3148"/>
+<text x="1128" y="652" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F5EFE6">Your order</text>
+<text x="1128" y="694" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">2 premium seats (D7, D8)</text><text x="1532" y="694" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">$28.00</text>
+<text x="1128" y="728" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Booking fee</text><text x="1532" y="728" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#F5EFE6">$1.50</text>
+<text x="1128" y="762" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#A79FB8">Promo 111 (10% off tickets)</text><text x="1532" y="762" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#7FD1A5">−$2.80</text>
+<line x1="1128" y1="808" x2="1532" y2="808" stroke="#3A3148"/>
+<text x="1128" y="844" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F5EFE6">Total</text><text x="1532" y="844" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F5EFE6">$26.70</text>
+<rect x="1128" y="868" width="404" height="56" rx="14" fill="#F2B544"/><text x="1330" y="903" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#17131F">Continue to checkout</text>
+</svg>
